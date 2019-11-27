@@ -40,6 +40,7 @@ end
 group :test do
   gem 'capybara'
   gem 'fuubar'
+  gem 'pry'
 end
 
 
